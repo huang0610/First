@@ -3,6 +3,7 @@
  */
 public class Hello {
     public static void main(){
+        int mum = 12;
 
     }
 }
